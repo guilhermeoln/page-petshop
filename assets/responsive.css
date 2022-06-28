@@ -1,0 +1,23 @@
+@media (max-width: 600px)
+{
+
+  .container-main{
+    align-items: center;
+  }
+  .container-main img{
+    width: 300px;
+    transition: 0.2s all;
+  }
+
+  h1{
+    margin-left: 20%;
+  }
+  
+  .services{
+    display: none;
+  }
+
+  .card-img{
+    width: 100%;
+  }
+}
